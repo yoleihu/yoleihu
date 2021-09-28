@@ -5,7 +5,6 @@
 
 - 🙇‍♀️ Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 🔭 Atualmente, sou estagiária em back-end.
-- 🌱 Estou aprendendo Web.
 - 📫 Como chegar até mim: [Instagram](https://www.instagram.com/yoleihu/), [LinkedIn](https://www.linkedin.com/in/yolanda-ferreira/) e [E-mail](mailto:landacontato@gmail.com)
 
 #
@@ -17,12 +16,11 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Yoyo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yoyo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yoyo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yoyo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yoyo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
-  <img align="center" alt="Yoyo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yoyo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yoyo-TS" height="40" width="40" src="https://user-images.githubusercontent.com/75169200/135132342-f064e04c-8b66-41e7-af38-bbb9ab45f721.png"> 
+  <img align="center" alt="Yoyo-Python" height="40" width="40" src="https://user-images.githubusercontent.com/75169200/135132947-9feedce7-ed94-4998-9aa9-8d09a40c0b88.png">
+  <img align="center" alt="Yoyo-Java" height="40" width="40" src="https://user-images.githubusercontent.com/75169200/135132628-b4982e21-7253-4c8b-8d15-fee3ff229f32.png">
+  
 </div>
   
