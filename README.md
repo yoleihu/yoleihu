@@ -16,11 +16,23 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yoyo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yoyo-TS" height="40" width="40" src="https://user-images.githubusercontent.com/75169200/135132342-f064e04c-8b66-41e7-af38-bbb9ab45f721.png"> 
-  <img align="center" alt="Yoyo-Python" height="40" width="40" src="https://user-images.githubusercontent.com/75169200/135132947-9feedce7-ed94-4998-9aa9-8d09a40c0b88.png">
-  <img align="center" alt="Yoyo-Java" height="40" width="40" src="https://user-images.githubusercontent.com/75169200/135132628-b4982e21-7253-4c8b-8d15-fee3ff229f32.png">
-  
+  <h4>Linguagens</h4>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><br>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><br>
+  <h4>Framework's</h4>
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  <h4>IDE's</h4>
+  <img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <h4>Bancos</h4>
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
   
