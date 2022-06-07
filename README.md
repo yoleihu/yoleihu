@@ -4,7 +4,7 @@
 <h3>Olá, eu sou Yolanda Ferreira 👋</h3>
 
 - 🙇‍♀️ Sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🔭 Atualmente, sou estagiária em back-end.
+- 🔭 Atualmente, busco uma vaga em desenvolviemnto web.
 - 📫 Como chegar até mim: [Instagram](https://www.instagram.com/yoleihu/), [LinkedIn](https://www.linkedin.com/in/yolanda-ferreira/) e [E-mail](mailto:landacontato@gmail.com)
 
 
