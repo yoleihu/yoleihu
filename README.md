@@ -10,12 +10,6 @@
 
 #
 
-<div>
-  <a href="https://github.com/yoleihu">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yoleihu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoleihu&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <h4>Linguagens</h4>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
