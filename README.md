@@ -8,23 +8,31 @@
 
 
 #
+### Tecnologias e Habilidades
 
-<div style="display: inline_block"><br>
+- 💻 Linguagens:
+    - ☕️ Java
+    - ⌨️ TypeScript
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+- 🔧 Frameworks Backend:
+    - 🌿 Spring
+    - 🦁 NestJS
+    - 🚀 Express
 
-</div>
-  
+- 🌐 Frameworks Frontend:
+    - ⚛️ React
+    - ⚡️ Next.js
+
+- 💾 Bancos de Dados:
+    - 🐬 MySQL
+    - 🐘 PostgreSQL
+    - 🪶 SQLite
+    - 📊 Microsoft SQL Server
+
+- ⚙️ DevOps:
+    - 🐳 Docker
+    - ☁️ Azure
+    - ☁️ AWS
+    - 🤖 GitHub Actions
+
+
