@@ -4,7 +4,6 @@
 <h3>Olá, eu sou Yolanda Ferreira 👋</h3>
 
 - 🙇‍♀️ Sou formada Análise e Desenvolvimento de Sistemas.
-- ⭐ Atualmente sou Analista de Software na IK.
 - 📫 Como chegar até mim: [Instagram](https://www.instagram.com/yoleihu/), [LinkedIn](https://www.linkedin.com/in/yolanda-ferreira/) e [E-mail](mailto:landacontato@gmail.com)
 
 
