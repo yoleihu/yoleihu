@@ -4,7 +4,7 @@
 <h3>Olá, eu sou Yolanda Ferreira 👋</h3>
 
 - 🙇‍♀️ Sou formada Análise e Desenvolvimento de Sistemas.
-- 📫 Como chegar até mim: [Instagram](https://www.instagram.com/yoleihu/), [LinkedIn](https://www.linkedin.com/in/yolanda-ferreira/) e [E-mail](mailto:landacontato@gmail.com)
+- 📫 Como chegar até mim: [Instagram](https://www.instagram.com/yolandaferreirajs/), [LinkedIn](https://www.linkedin.com/in/yolanda-ferreira/) e [E-mail](mailto:landacontato@gmail.com)
 
 
 #
@@ -13,26 +13,3 @@
 - 💻 Linguagens:
     - ☕️ Java
     - ⌨️ TypeScript
-
-- 🔧 Frameworks Backend:
-    - 🌿 Spring
-    - 🦁 NestJS
-    - 🚀 Express
-
-- 🌐 Frameworks Frontend:
-    - ⚛️ React
-    - ⚡️ Next.js
-
-- 💾 Bancos de Dados:
-    - 🐬 MySQL
-    - 🐘 PostgreSQL
-    - 🪶 SQLite
-    - 📊 Microsoft SQL Server
-
-- ⚙️ DevOps:
-    - 🐳 Docker
-    - ☁️ Azure
-    - ☁️ AWS
-    - 🤖 GitHub Actions
-
-
